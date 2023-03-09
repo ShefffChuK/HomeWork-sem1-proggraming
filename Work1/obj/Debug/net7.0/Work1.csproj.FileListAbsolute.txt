@@ -1,0 +1,15 @@
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\bin\Debug\net7.0\Work1.exe
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\bin\Debug\net7.0\Work1.deps.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\bin\Debug\net7.0\Work1.runtimeconfig.json
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\bin\Debug\net7.0\Work1.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\bin\Debug\net7.0\Work1.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\Work1.csproj.AssemblyReference.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\Work1.AssemblyInfoInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\Work1.AssemblyInfo.cs
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\Work1.csproj.CoreCompileInputs.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\Work1.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\refint\Work1.dll
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\Work1.pdb
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\Work1.genruntimeconfig.cache
+C:\Users\sheffchuk\Desktop\Обучение\Семинары\HomeWork sem1 programming\Work1\obj\Debug\net7.0\ref\Work1.dll
