@@ -3,7 +3,18 @@
 //5 -> 2, 4
 //8 -> 2, 4, 6, 8
 
-int numer = n;
+Console.WriteLine("Введите число N: ");
+
+int N =int.Parse(Console.ReadLine()!);
+
+int a = 0;
+
+while( a < N)
+{
+   a += 2;
+   if(a <= N) Console.Write(a );
+    
+}
 
 
 
